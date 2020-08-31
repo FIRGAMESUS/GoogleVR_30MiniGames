@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: ea4a9c5aded264a73ae86e377188c63b
+timeCreated: 1481195601
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere
+    100004: Torus
+    100006: Torus.001
+    100008: Torus.002
+    400000: //RootNode
+    400002: Sphere
+    400004: Torus
+    400006: Torus.001
+    400008: Torus.002
+    2300000: Sphere
+    2300002: Torus
+    2300004: Torus.001
+    2300006: Torus.002
+    3300000: Sphere
+    3300002: Torus
+    3300004: Torus.001
+    3300006: Torus.002
+    4300000: Torus.002
+    4300002: Torus.001
+    4300004: Torus
+    4300006: Sphere
+    7400000: Torus.002|SphereAction
+    7400002: Torus.002|SphereAction.001
+    7400004: Torus.002|SphereAction.002
+    7400006: Torus.002|SphereAction.003
+    7400008: Torus.002|Torus.001Action
+    7400010: Torus.002|Torus.001Action.001
+    7400012: Torus.002|Torus.001Action.002
+    7400014: Torus.002|Torus.001Action.003
+    7400016: Torus.002|Torus.001Action.004
+    7400018: Torus.002|Torus.001Action.005
+    7400020: Torus.002|Torus.001Action.006
+    7400022: Torus.002|Torus.001Action.007
+    7400024: Torus.002|TorusAction
+    7400026: Torus.002|TorusAction.001
+    7400028: Torus.002|TorusAction.002
+    7400030: Torus.002|TorusAction.003
+    7400032: Torus.001|SphereAction
+    7400034: Torus.001|SphereAction.001
+    7400036: Torus.001|SphereAction.002
+    7400038: Torus.001|SphereAction.003
+    7400040: Torus.001|Torus.001Action
+    7400042: Torus.001|Torus.001Action.001
+    7400044: Torus.001|Torus.001Action.002
+    7400046: Torus.001|Torus.001Action.003
+    7400048: Torus.001|Torus.001Action.004
+    7400050: Torus.001|Torus.001Action.005
+    7400052: Torus.001|Torus.001Action.006
+    7400054: Torus.001|Torus.001Action.007
+    7400056: Torus.001|TorusAction
+    7400058: Torus.001|TorusAction.001
+    7400060: Torus.001|TorusAction.002
+    7400062: Torus.001|TorusAction.003
+    7400064: Torus|SphereAction
+    7400066: Torus|SphereAction.001
+    7400068: Torus|SphereAction.002
+    7400070: Torus|SphereAction.003
+    7400072: Torus|Torus.001Action
+    7400074: Torus|Torus.001Action.001
+    7400076: Torus|Torus.001Action.002
+    7400078: Torus|Torus.001Action.003
+    7400080: Torus|Torus.001Action.004
+    7400082: Torus|Torus.001Action.005
+    7400084: Torus|Torus.001Action.006
+    7400086: Torus|Torus.001Action.007
+    7400088: Torus|TorusAction
+    7400090: Torus|TorusAction.001
+    7400092: Torus|TorusAction.002
+    7400094: Torus|TorusAction.003
+    7400096: Sphere|SphereAction
+    7400098: Sphere|SphereAction.001
+    7400100: Sphere|SphereAction.002
+    7400102: Sphere|SphereAction.003
+    7400104: Sphere|Torus.001Action
+    7400106: Sphere|Torus.001Action.001
+    7400108: Sphere|Torus.001Action.002
+    7400110: Sphere|Torus.001Action.003
+    7400112: Sphere|Torus.001Action.004
+    7400114: Sphere|Torus.001Action.005
+    7400116: Sphere|Torus.001Action.006
+    7400118: Sphere|Torus.001Action.007
+    7400120: Sphere|TorusAction
+    7400122: Sphere|TorusAction.001
+    7400124: Sphere|TorusAction.002
+    7400126: Sphere|TorusAction.003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
